@@ -6,5 +6,5 @@ http.createServer(function(req, res) {
 	sendImage.sendImage(sampleImage);
 	res.writeHead(200, { 'Content-Type': 'text/html' });
 	res.end('Hello World!');
-	console.log('Listening on port 8080!');
-}).listen(8080);
+	console.log('Listening on port 8081!');
+}).listen(8081);
