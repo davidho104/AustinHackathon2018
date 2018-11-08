@@ -44,9 +44,13 @@ img {
     margin-right: auto;
     text-align: left;
     font-size: 30px;
+    
 }
 
 #step {
     font-size: 30px;
 }
 
+.row {
+    padding-top: 20px;
+}
