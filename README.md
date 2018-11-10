@@ -7,9 +7,9 @@ ________________________________________________________________________________
 
 ## About
 
-Have you ever struggled with choosing an outfit or simply lacked fashion sense? 
-Wardrobe is an app that will allow users to take snapshots of their various clothing items and store them in the app. From then, the user can select a top they own and the app will suggest bottoms to choose from using artificial intelligence and integrated algorithms.
-The app makes suggestions by analyzing the predominate color of the clothing items and uses an algorithm to select the complementary color.
+Have you ever struggled with choosing an outfit or simply lacked fashion sense?
+<br>Wardrobe is an app that will allow users to take snapshots of their various clothing items and store them in the app. From then, the user can select a top they own and the app will suggest bottoms to choose from using artificial intelligence and integrated algorithms.
+<br>The app makes suggestions by analyzing the predominate color of the clothing items and uses an algorithm to select the complementary color.
 
 ## Installation
 
@@ -23,7 +23,7 @@ To install and run Wardrobe on your own device, simply clone the repository. Run
 
 ## Contributors
 
-Wardrobe was originally created by David Ho, Iris Han, John Moen, Kevin Nguyen, Lee Reese.
+Wardrobe was originally created by David Ho, Iris Han, John Moen, Kevin Nguyen, and Lee Reese.
 
 **Copyright &copy; 2018-present David Ho.**
 
