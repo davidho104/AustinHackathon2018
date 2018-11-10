@@ -1,4 +1,4 @@
-## AustinHackathon2018 ## #1st Place Canon Challenge
+## AustinHackathon2018 1st Place Canon Challenge ##
 
 # Wardrobe
 
