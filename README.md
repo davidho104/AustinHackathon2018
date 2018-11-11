@@ -7,9 +7,10 @@ ________________________________________________________________________________
 
 ## About
 
-Have you ever struggled with choosing an outfit or simply lacked fashion sense?
-<br>Wardrobe is an app that will allow users to take snapshots of their various clothing items and store them in the app. The user can then  select a top they own and the app will suggest bottoms to choose from using artificial intelligence and integrated algorithms.
-<br>The app makes suggestions by analyzing the predominate color of the clothing items and uses an algorithm to select the complementary color.
+Wardrobe is an app that will allow users to take snapshots of their various clothing items and store them in the app. The user can then select a top they own and the app will suggest bottoms to choose from using artificial intelligence and integrated algorithms. 
+The app makes suggestions by analyzing the predominate color of the clothing items and uses an algorithm to select the complementary color.
+
+
 
 ## Installation
 
